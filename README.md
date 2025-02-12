@@ -177,8 +177,8 @@ void searchByDepartment(struct Hashtable *ht, char *department);
 
 ## Author
 
-👤 **Jaayny Mithri Dasari**  
-📧 [jaaynydasari@gmail.com]  
+👤 **Karishma Pathan**  
+📧 [pathan.karishma1910@gmail.com]  
 
 ---
 
