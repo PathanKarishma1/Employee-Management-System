@@ -91,7 +91,7 @@ Menu:
 Enter choice: 1
 
 Enter ID: 101
-Enter Name: John
+Enter Name: Karishma
 Enter Date of Birth (YYYY-MM-DD): 1995-12-23
 Enter Date of Joining (YYYY-MM-DD): 2022-08-01
 Enter Salary: 75000
